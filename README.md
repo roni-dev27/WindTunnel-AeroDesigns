@@ -20,9 +20,7 @@ Designed at the **University of Arkansas**, this project focuses on optimizing i
 
 ## 📂 Repository Structure
 
-```text
-├── CAD_Native/           # SolidWorks Part (.SLDPRT) & Assembly (.SLDASM) files
-├── CAD_Universal/        # Universal STEP (.STEP) files for cross-CAD compatibility
-├── Drawings/             # High-resolution PDF engineering drawings & dimensional schematics
-├── Renders/              # High-resolution CAD renders & visualization previews
+├── CAD_Models/           # 3D STL mesh files for base, flow straightener, and inlet geometry
+├── Drawings/             # High-resolution PDF engineering drawings & dimensioned schematics
+├── Renders/              # CAD render previews & component visuals
 └── README.md             # Project documentation
